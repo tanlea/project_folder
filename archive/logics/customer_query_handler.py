@@ -48,7 +48,7 @@ def identify_category_and_courses(user_message):
 
     {category_n_course_name}
 
-    If are no relevant courses are found, output an empty list.
+    If there are no relevant courses are found, output an empty list.
 
     Ensure your response contains only the list of dictionary objects or an empty list, \
     without any enclosing tags or delimiters.
@@ -64,7 +64,7 @@ def identify_category_and_courses(user_message):
     category_and_product_response_str = category_and_product_response_str.replace("'", "\"")
     category_and_product_response = json.loads(category_and_product_response_str)
     return category_and_product_response
-    
+
 
 def get_course_details(list_of_relevant_category_n_course: list[dict]):
     course_names_list = []
@@ -125,15 +125,19 @@ def generate_response_based_on_course_details(user_message, product_details):
 def process_user_message(user_input):
     delimiter = "```"
 
+    print(user_input)
+    
     # Process 1: If Courses are found, look them up
     category_n_course_name = identify_category_and_courses(user_input)
     print("category_n_course_name : ", category_n_course_name)
 
     # Process 2: Get the Course Details
     course_details = get_course_details(category_n_course_name)
+    print("course_details : ", course_details)
 
     # Process 3: Generate Response based on Course Details
     reply = generate_response_based_on_course_details(user_input, course_details)
+    print("reply : ", reply)
 
-
+    # Process 4: Append the response to the list of all messages
     return reply, course_details

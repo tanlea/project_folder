@@ -6,12 +6,7 @@
         "course_code": "WD-CA100",
         "duration": "12 weeks",
         "rating": 4.8,
-        "skills_covered": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React"
-        ],
+        "skills_covered": ["HTML", "CSS", "JavaScript", "React"],
         "description": "This intensive bootcamp is designed to transform you into a proficient web developer. You'll learn the fundamentals of web development, including HTML, CSS, JavaScript, and React, through hands-on projects and real-world scenarios.",
         "price": 1200.99
     },
@@ -22,12 +17,7 @@
         "course_code": "DS-DC200",
         "duration": "8 weeks",
         "rating": 4.7,
-        "skills_covered": [
-            "Python",
-            "Pandas",
-            "NumPy",
-            "Machine Learning"
-        ],
+        "skills_covered": ["Python", "Pandas", "NumPy", "Machine Learning"],
         "description": "This course offers a practical and project-based approach to learning data science with Python. You'll work with real-world datasets and hands-on Python projects to master data analysis and machine learning.",
         "price": 999.99
     },
@@ -38,12 +28,7 @@
         "course_code": "DM-MG300",
         "duration": "10 weeks",
         "rating": 4.6,
-        "skills_covered": [
-            "SEO",
-            "Content Marketing",
-            "PPC",
-            "Email Marketing"
-        ],
+        "skills_covered": ["SEO", "Content Marketing", "PPC", "Email Marketing"],
         "description": "This comprehensive masterclass will equip you with all the necessary skills and techniques to excel in digital marketing. From SEO and content marketing to PPC and email marketing, you'll become a complete digital marketer.",
         "price": 899.99
     },
@@ -54,11 +39,7 @@
         "course_code": "CS-ST400",
         "duration": "6 weeks",
         "rating": 4.8,
-        "skills_covered": [
-            "Network Security",
-            "Cryptography",
-            "Risk Management"
-        ],
+        "skills_covered": ["Network Security", "Cryptography", "Risk Management"],
         "description": "This course provides a solid foundation in cybersecurity for anyone interested in the field. You'll learn about network security, cryptography, and risk management, preparing you for a career in the rapidly growing field of cybersecurity.",
         "price": 699.99
     },
@@ -69,12 +50,7 @@
         "course_code": "AI-AT500",
         "duration": "14 weeks",
         "rating": 4.9,
-        "skills_covered": [
-            "Python",
-            "TensorFlow",
-            "Neural Networks",
-            "Deep Learning"
-        ],
+        "skills_covered": ["Python", "TensorFlow", "Neural Networks", "Deep Learning"],
         "description": "This beginner-friendly course offers a deep dive into the world of AI and machine learning. You'll learn Python, TensorFlow, neural networks, and deep learning through engaging lectures and hands-on projects.",
         "price": 1299.99
     },
@@ -85,12 +61,7 @@
         "course_code": "PM-PL600",
         "duration": "8 weeks",
         "rating": 4.7,
-        "skills_covered": [
-            "Project Planning",
-            "Execution",
-            "Monitoring and Controlling",
-            "Closing"
-        ],
+        "skills_covered": ["Project Planning", "Execution", "Monitoring and Controlling", "Closing"],
         "description": "This comprehensive course prepares you for the PMP® certification exam. You'll learn all aspects of project management, including planning, execution, monitoring, controlling, and closing, to boost your career in project management.",
         "price": 1099.99
     },
@@ -101,12 +72,7 @@
         "course_code": "CW-WW700",
         "duration": "5 weeks",
         "rating": 4.5,
-        "skills_covered": [
-            "Fiction",
-            "Poetry",
-            "Screenwriting",
-            "Editing"
-        ],
+        "skills_covered": ["Fiction", "Poetry", "Screenwriting", "Editing"],
         "description": "This workshop is designed to unlock your creative potential in writing. You'll explore various genres including fiction, poetry, and screenwriting, and learn editing techniques to refine your work.",
         "price": 499.99
     },
@@ -117,12 +83,7 @@
         "course_code": "GD-DP800",
         "duration": "10 weeks",
         "rating": 4.6,
-        "skills_covered": [
-            "Adobe Photoshop",
-            "Illustrator",
-            "InDesign",
-            "Branding"
-        ],
+        "skills_covered": ["Adobe Photoshop", "Illustrator", "InDesign", "Branding"],
         "description": "This course will help you master the fundamentals of graphic design. You'll learn to use Adobe Photoshop, Illustrator, and InDesign, and understand the principles of branding to create compelling visual designs.",
         "price": 799.99
     },
@@ -133,11 +94,7 @@
         "course_code": "CC-CM900",
         "duration": "4 weeks",
         "rating": 4.7,
-        "skills_covered": [
-            "Cloud Architecture",
-            "Cloud Security",
-            "Cloud Services"
-        ],
+        "skills_covered": ["Cloud Architecture", "Cloud Security", "Cloud Services"],
         "description": "This course provides an introduction to the fundamental concepts of cloud computing. You'll learn about cloud architecture, security, and services, setting a strong foundation for further study or work in the field of cloud computing.",
         "price": 599.99
     },
@@ -148,12 +105,7 @@
         "course_code": "AWD-CA101",
         "duration": "14 weeks",
         "rating": 4.8,
-        "skills_covered": [
-            "Node.js",
-            "Express.js",
-            "MongoDB",
-            "Vue.js"
-        ],
+        "skills_covered": ["Node.js", "Express.js", "MongoDB", "Vue.js"],
         "description": "Take your web development skills to the next level with this advanced course. Learn to build full-stack applications using Node.js, Express.js, MongoDB, and Vue.js.",
         "price": 1400.99
     },
@@ -164,12 +116,7 @@
         "course_code": "MLR-DC201",
         "duration": "8 weeks",
         "rating": 4.7,
-        "skills_covered": [
-            "R",
-            "dplyr",
-            "ggplot2",
-            "Machine Learning"
-        ],
+        "skills_covered": ["R", "dplyr", "ggplot2", "Machine Learning"],
         "description": "Master machine learning techniques using the R programming language. Work with real-world datasets and hands-on R projects to become a data science expert.",
         "price": 1049.99
     },
@@ -180,12 +127,7 @@
         "course_code": "SMM-MG301",
         "duration": "10 weeks",
         "rating": 4.6,
-        "skills_covered": [
-            "Facebook Ads",
-            "Instagram Marketing",
-            "LinkedIn Marketing",
-            "Twitter Marketing"
-        ],
+        "skills_covered": ["Facebook Ads", "Instagram Marketing", "LinkedIn Marketing", "Twitter Marketing"],
         "description": "Learn to create effective social media marketing strategies. From Facebook Ads to Instagram and LinkedIn marketing, become a social media marketing expert.",
         "price": 949.99
     },
@@ -196,11 +138,7 @@
         "course_code": "EH-ST401",
         "duration": "6 weeks",
         "rating": 4.8,
-        "skills_covered": [
-            "Penetration Testing",
-            "Network Scanning",
-            "Vulnerability Assessment"
-        ],
+        "skills_covered": ["Penetration Testing", "Network Scanning", "Vulnerability Assessment"],
         "description": "Learn the basics of ethical hacking and penetration testing. Understand network scanning and vulnerability assessment to start a career in cybersecurity.",
         "price": 749.99
     },
@@ -211,12 +149,7 @@
         "course_code": "DL-AT501",
         "duration": "14 weeks",
         "rating": 4.9,
-        "skills_covered": [
-            "Python",
-            "TensorFlow",
-            "Convolutional Neural Networks",
-            "Recurrent Neural Networks"
-        ],
+        "skills_covered": ["Python", "TensorFlow", "Convolutional Neural Networks", "Recurrent Neural Networks"],
         "description": "Master deep learning techniques with TensorFlow. Learn about convolutional and recurrent neural networks through hands-on projects.",
         "price": 1349.99
     },
@@ -227,12 +160,7 @@
         "course_code": "APM-PL601",
         "duration": "8 weeks",
         "rating": 4.7,
-        "skills_covered": [
-            "Scrum",
-            "Kanban",
-            "Agile Planning",
-            "User Stories"
-        ],
+        "skills_covered": ["Scrum", "Kanban", "Agile Planning", "User Stories"],
         "description": "Learn Agile project management methodologies. Understand Scrum, Kanban, Agile planning, and writing user stories to boost your career in project management.",
         "price": 1149.99
     },
@@ -243,12 +171,7 @@
         "course_code": "ACW-WW701",
         "duration": "5 weeks",
         "rating": 4.5,
-        "skills_covered": [
-            "Novel Writing",
-            "Short Stories",
-            "Playwriting",
-            "Editing"
-        ],
+        "skills_covered": ["Novel Writing", "Short Stories", "Playwriting", "Editing"],
         "description": "Take your writing skills to the next level with this advanced creative writing course. Learn novel writing, short stories, playwriting, and editing techniques.",
         "price": 549.99
     },
@@ -259,12 +182,7 @@
         "course_code": "UIUX-DP801",
         "duration": "10 weeks",
         "rating": 4.6,
-        "skills_covered": [
-            "Sketch",
-            "Figma",
-            "User Research",
-            "Wireframing"
-        ],
+        "skills_covered": ["Sketch", "Figma", "User Research", "Wireframing"],
         "description": "Learn the fundamentals of UI/UX design. Master tools like Sketch and Figma, and understand user research and wireframing to create compelling designs.",
         "price": 849.99
     },
@@ -275,13 +193,9 @@
         "course_code": "CAD-CM901",
         "duration": "4 weeks",
         "rating": 4.7,
-        "skills_covered": [
-            "AWS",
-            "Azure",
-            "Google Cloud",
-            "Cloud Architecture"
-        ],
+        "skills_covered": ["AWS", "Azure", "Google Cloud", "Cloud Architecture"],
         "description": "Learn to design robust and scalable cloud architectures. Understand AWS, Azure, Google Cloud, and general cloud architecture principles.",
         "price": 649.99
     }
 }
+

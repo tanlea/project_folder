@@ -15,11 +15,10 @@ build/
 dist/
 *.egg-info/
 
-# VS Code 
-.vscode/ 
-# PyCharm 
+# VS Code
+.vscode/
+# PyCharm
 .idea/
-
 
 # Streamlit
 .streamlit/secrets.toml
